@@ -1,4 +1,5 @@
-<img src="https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif" alt="cplusplus" width="200vw" height="200vh"/>
+<img src="https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif" alt="cplusplus" width="400px" height="200px"/>
+
 <h1 align="center">Hi 👋, I'm Shubham Dhingra</h1>
 <h3 align="center">Bridging the gap between front-end and back-end development to create comprehensive web applications.</h3>
 
