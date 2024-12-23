@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **React.js, JavaScript, Back-end Development , Front-end Development**
 
-- 📫 How to reach me **shubhamdhingra9896@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
